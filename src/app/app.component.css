@@ -1,0 +1,19 @@
+a {
+    color: black;
+    font-style: italic;
+    padding: 4px;
+    margin: 4px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    background-color: gray;
+}
+
+a.active {
+    background-color: aquamarine;
+}
+nav {
+    display: flex;
+    background-color: black;
+    height: 50px;
+    align-items: center;
+}
